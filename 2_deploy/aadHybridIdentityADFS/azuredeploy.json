@@ -249,7 +249,7 @@
         }
     },
     "variables": {
-        "artifactsBlacksmith": "https://raw.githubusercontent.com/OTRF/Blacksmith/master/",
+        "artifactsBlacksmith": "https://raw.githubusercontent.com/Dabuek/Blacksmith/master/",
         "artifactsMSSentinel2Go": "https://raw.githubusercontent.com/OTRF/Microsoft-Sentinel2Go/master/",
         "artifactsSimuLand": "https://raw.githubusercontent.com/Azure/SimuLand/main/",
         "aadDiagnosticSettingName": "[concat('AADConnector-',uniqueString(parameters('subscriptionId'),parameters('resourceGroup'),parameters('utcValue')))]",
